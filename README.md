@@ -5,8 +5,11 @@ For others, it is very difficult to give up familiar things. However, I like cha
 If you are looking for someone who can lead the product to success while ensuring the technical quality of the product, I will be the person you are looking for. And I believe I would make a valuable asset to you.
 
 2018 - Present, Firmware Engineer (C, Linux, Network)
+
 2015 - 2018, Full Stack Engineer (JS, jQuery, JAVA, SCRUM, JIRA, Spring-MVC)
+
 2014 - 2015, Full Stack Engineer (AnguarJS, JAVA, REST)
+
 2012 - 2013, SQA Engineer (Script Test)
 
 <!---
